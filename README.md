@@ -1,7 +1,7 @@
-### Hi there 👋
-
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/smzfl3E7a4iHK/giphy.gif" width=600"/>
+  <div style="width:333px; height:444px; background:URL([Effekti3.gif](https://media.giphy.com/media/smzfl3E7a4iHK/giphy.gif)); border:2px solid red; background-size:cover;"></div>
+  <img src="[Effekti3.gif](https://media.giphy.com/media/smzfl3E7a4iHK/giphy.gif)" alt="" style="width:333px; height:444px; border:2px solid red;"/>
+  <img src="https://media.giphy.com/media/smzfl3E7a4iHK/giphy.gif" width=600px height=300px "/>
 </div>
 
 <h1 align="center">Hi there, I'm Daniil</a>
